@@ -1,0 +1,231 @@
+;Year;Purpose;Gender;Race;Count
+0;2014;Vehicle Regulatory Violation;F;White;429
+1;2014;Vehicle Regulatory Violation;F;Black;181
+2;2014;Vehicle Regulatory Violation;F;Native American;1
+3;2014;Vehicle Regulatory Violation;F;Asian;21
+4;2014;Vehicle Regulatory Violation;F;Other;1
+5;2015;Vehicle Regulatory Violation;F;White;505
+6;2015;Vehicle Regulatory Violation;F;Black;242
+7;2015;Vehicle Regulatory Violation;F;Native American;2
+8;2015;Vehicle Regulatory Violation;F;Asian;29
+9;2015;Vehicle Regulatory Violation;F;Other;2
+10;2015;Stop Light/Sign Violation;M;White;219
+11;2015;Stop Light/Sign Violation;M;Black;53
+12;2015;Stop Light/Sign Violation;M;Native American;6
+13;2015;Stop Light/Sign Violation;M;Asian;22
+14;2015;Stop Light/Sign Violation;M;Other;3
+15;2015;Investigation;F;White;64
+16;2015;Investigation;F;Black;40
+17;2015;Investigation;F;Native American;0
+18;2015;Investigation;F;Asian;4
+19;2015;Investigation;F;Other;0
+20;2015;Safe Movement Violation;F;White;140
+21;2015;Safe Movement Violation;F;Black;50
+22;2015;Safe Movement Violation;F;Native American;2
+23;2015;Safe Movement Violation;F;Asian;17
+24;2015;Safe Movement Violation;F;Other;2
+25;2015;Driving While Impaired;M;White;17
+26;2015;Driving While Impaired;M;Black;14
+27;2015;Driving While Impaired;M;Native American;0
+28;2015;Driving While Impaired;M;Asian;0
+29;2015;Driving While Impaired;M;Other;0
+30;2015;Checkpoint;M;White;0
+31;2015;Checkpoint;M;Black;0
+32;2015;Checkpoint;M;Native American;0
+33;2015;Checkpoint;M;Asian;0
+34;2015;Checkpoint;M;Other;0
+35;2015;Speed Limit Violation;M;White;1566
+36;2015;Speed Limit Violation;M;Black;630
+37;2015;Speed Limit Violation;M;Native American;20
+38;2015;Speed Limit Violation;M;Asian;210
+39;2015;Speed Limit Violation;M;Other;35
+40;2015;Seat Belt Violation;F;White;5
+41;2015;Seat Belt Violation;F;Black;1
+42;2015;Seat Belt Violation;F;Native American;0
+43;2015;Seat Belt Violation;F;Asian;1
+44;2015;Seat Belt Violation;F;Other;0
+45;2014;Vehicle Equipment Violation;M;White;237
+46;2014;Vehicle Equipment Violation;M;Black;132
+47;2014;Vehicle Equipment Violation;M;Native American;3
+48;2014;Vehicle Equipment Violation;M;Asian;33
+49;2014;Vehicle Equipment Violation;M;Other;5
+50;2014;Safe Movement Violation;F;White;73
+51;2014;Safe Movement Violation;F;Black;30
+52;2014;Safe Movement Violation;F;Native American;1
+53;2014;Safe Movement Violation;F;Asian;9
+54;2014;Safe Movement Violation;F;Other;0
+55;2014;Speed Limit Violation;M;White;1516
+56;2014;Speed Limit Violation;M;Black;567
+57;2014;Speed Limit Violation;M;Native American;31
+58;2014;Speed Limit Violation;M;Asian;211
+59;2014;Speed Limit Violation;M;Other;20
+60;2014;Total;A;White;5441
+61;2014;Total;A;Black;2108
+62;2014;Total;A;Native American;75
+63;2014;Total;A;Asian;577
+64;2014;Total;A;Other;42
+65;2015;Other Motor Vehicle Violation;F;White;39
+66;2015;Other Motor Vehicle Violation;F;Black;16
+67;2015;Other Motor Vehicle Violation;F;Native American;0
+68;2015;Other Motor Vehicle Violation;F;Asian;8
+69;2015;Other Motor Vehicle Violation;F;Other;0
+70;2014;FemaleTotal;F;White;2395
+71;2014;FemaleTotal;F;Black;879
+72;2014;FemaleTotal;F;Native American;26
+73;2014;FemaleTotal;F;Asian;224
+74;2014;FemaleTotal;F;Other;12
+75;2015;Safe Movement Violation;M;White;175
+76;2015;Safe Movement Violation;M;Black;84
+77;2015;Safe Movement Violation;M;Native American;5
+78;2015;Safe Movement Violation;M;Asian;26
+79;2015;Safe Movement Violation;M;Other;0
+80;2015;Vehicle Equipment Violation;F;White;145
+81;2015;Vehicle Equipment Violation;F;Black;68
+82;2015;Vehicle Equipment Violation;F;Native American;1
+83;2015;Vehicle Equipment Violation;F;Asian;22
+84;2015;Vehicle Equipment Violation;F;Other;2
+85;2014;Speed Limit Violation;F;White;1395
+86;2014;Speed Limit Violation;F;Black;458
+87;2014;Speed Limit Violation;F;Native American;18
+88;2014;Speed Limit Violation;F;Asian;145
+89;2014;Speed Limit Violation;F;Other;8
+90;2015;Investigation;M;White;150
+91;2015;Investigation;M;Black;93
+92;2015;Investigation;M;Native American;5
+93;2015;Investigation;M;Asian;11
+94;2015;Investigation;M;Other;2
+95;2015;FemaleTotal;F;White;2331
+96;2015;FemaleTotal;F;Black;961
+97;2015;FemaleTotal;F;Native American;27
+98;2015;FemaleTotal;F;Asian;219
+99;2015;FemaleTotal;F;Other;22
+100;2014;Seat Belt Violation;M;White;73
+101;2014;Seat Belt Violation;M;Black;33
+102;2014;Seat Belt Violation;M;Native American;1
+103;2014;Seat Belt Violation;M;Asian;7
+104;2014;Seat Belt Violation;M;Other;0
+105;2014;Investigation;M;White;120
+106;2014;Investigation;M;Black;78
+107;2014;Investigation;M;Native American;4
+108;2014;Investigation;M;Asian;9
+109;2014;Investigation;M;Other;1
+110;2014;Stop Light/Sign Violation;M;White;211
+111;2014;Stop Light/Sign Violation;M;Black;60
+112;2014;Stop Light/Sign Violation;M;Native American;2
+113;2014;Stop Light/Sign Violation;M;Asian;22
+114;2014;Stop Light/Sign Violation;M;Other;3
+115;2014;Vehicle Equipment Violation;F;White;183
+116;2014;Vehicle Equipment Violation;F;Black;83
+117;2014;Vehicle Equipment Violation;F;Native American;4
+118;2014;Vehicle Equipment Violation;F;Asian;21
+119;2014;Vehicle Equipment Violation;F;Other;3
+120;2015;Vehicle Equipment Violation;M;White;183
+121;2015;Vehicle Equipment Violation;M;Black;104
+122;2015;Vehicle Equipment Violation;M;Native American;9
+123;2015;Vehicle Equipment Violation;M;Asian;34
+124;2015;Vehicle Equipment Violation;M;Other;3
+125;2014;Safe Movement Violation;M;White;136
+126;2014;Safe Movement Violation;M;Black;67
+127;2014;Safe Movement Violation;M;Native American;3
+128;2014;Safe Movement Violation;M;Asian;28
+129;2014;Safe Movement Violation;M;Other;0
+130;2014;Checkpoint;F;White;0
+131;2014;Checkpoint;F;Black;0
+132;2014;Checkpoint;F;Native American;0
+133;2014;Checkpoint;F;Asian;0
+134;2014;Checkpoint;F;Other;0
+135;2015;Vehicle Regulatory Violation;M;White;739
+136;2015;Vehicle Regulatory Violation;M;Black;301
+137;2015;Vehicle Regulatory Violation;M;Native American;11
+138;2015;Vehicle Regulatory Violation;M;Asian;55
+139;2015;Vehicle Regulatory Violation;M;Other;9
+140;2015;Stop Light/Sign Violation;F;White;165
+141;2015;Stop Light/Sign Violation;F;Black;32
+142;2015;Stop Light/Sign Violation;F;Native American;7
+143;2015;Stop Light/Sign Violation;F;Asian;18
+144;2015;Stop Light/Sign Violation;F;Other;0
+145;2014;Other Motor Vehicle Violation;M;White;104
+146;2014;Other Motor Vehicle Violation;M;Black;36
+147;2014;Other Motor Vehicle Violation;M;Native American;0
+148;2014;Other Motor Vehicle Violation;M;Asian;8
+149;2014;Other Motor Vehicle Violation;M;Other;0
+150;2014;Driving While Impaired;M;White;18
+151;2014;Driving While Impaired;M;Black;3
+152;2014;Driving While Impaired;M;Native American;1
+153;2014;Driving While Impaired;M;Asian;2
+154;2014;Driving While Impaired;M;Other;0
+155;2015;Seat Belt Violation;M;White;22
+156;2015;Seat Belt Violation;M;Black;12
+157;2015;Seat Belt Violation;M;Native American;0
+158;2015;Seat Belt Violation;M;Asian;0
+159;2015;Seat Belt Violation;M;Other;0
+160;2014;Other Motor Vehicle Violation;F;White;57
+161;2014;Other Motor Vehicle Violation;F;Black;31
+162;2014;Other Motor Vehicle Violation;F;Native American;0
+163;2014;Other Motor Vehicle Violation;F;Asian;2
+164;2014;Other Motor Vehicle Violation;F;Other;0
+165;2014;Vehicle Regulatory Violation;M;White;631
+166;2014;Vehicle Regulatory Violation;M;Black;253
+167;2014;Vehicle Regulatory Violation;M;Native American;4
+168;2014;Vehicle Regulatory Violation;M;Asian;33
+169;2014;Vehicle Regulatory Violation;M;Other;1
+170;2014;Investigation;F;White;62
+171;2014;Investigation;F;Black;44
+172;2014;Investigation;F;Native American;1
+173;2014;Investigation;F;Asian;4
+174;2014;Investigation;F;Other;0
+175;2014;Stop Light/Sign Violation;F;White;139
+176;2014;Stop Light/Sign Violation;F;Black;28
+177;2014;Stop Light/Sign Violation;F;Native American;1
+178;2014;Stop Light/Sign Violation;F;Asian;14
+179;2014;Stop Light/Sign Violation;F;Other;0
+180;2015;Speed Limit Violation;F;White;1257
+181;2015;Speed Limit Violation;F;Black;508
+182;2015;Speed Limit Violation;F;Native American;15
+183;2015;Speed Limit Violation;F;Asian;120
+184;2015;Speed Limit Violation;F;Other;16
+185;2015;Total;A;White;5488
+186;2015;Total;A;Black;2285
+187;2015;Total;A;Native American;83
+188;2015;Total;A;Asian;588
+189;2015;Total;A;Other;75
+190;2015;Driving While Impaired;F;White;11
+191;2015;Driving While Impaired;F;Black;4
+192;2015;Driving While Impaired;F;Native American;0
+193;2015;Driving While Impaired;F;Asian;0
+194;2015;Driving While Impaired;F;Other;0
+195;2015;Checkpoint;F;White;0
+196;2015;Checkpoint;F;Black;0
+197;2015;Checkpoint;F;Native American;0
+198;2015;Checkpoint;F;Asian;0
+199;2015;Checkpoint;F;Other;0
+200;2014;Driving While Impaired;F;White;3
+201;2014;Driving While Impaired;F;Black;0
+202;2014;Driving While Impaired;F;Native American;0
+203;2014;Driving While Impaired;F;Asian;1
+204;2014;Driving While Impaired;F;Other;0
+205;2015;MaleTotal;M;White;3157
+206;2015;MaleTotal;M;Black;1324
+207;2015;MaleTotal;M;Native American;56
+208;2015;MaleTotal;M;Asian;369
+209;2015;MaleTotal;M;Other;53
+210;2015;Other Motor Vehicle Violation;M;White;86
+211;2015;Other Motor Vehicle Violation;M;Black;33
+212;2015;Other Motor Vehicle Violation;M;Native American;0
+213;2015;Other Motor Vehicle Violation;M;Asian;11
+214;2015;Other Motor Vehicle Violation;M;Other;1
+215;2014;MaleTotal;M;White;3046
+216;2014;MaleTotal;M;Black;1229
+217;2014;MaleTotal;M;Native American;49
+218;2014;MaleTotal;M;Asian;353
+219;2014;MaleTotal;M;Other;30
+220;2014;Seat Belt Violation;F;White;54
+221;2014;Seat Belt Violation;F;Black;24
+222;2014;Seat Belt Violation;F;Native American;0
+223;2014;Seat Belt Violation;F;Asian;7
+224;2014;Seat Belt Violation;F;Other;0
+225;2014;Checkpoint;M;White;0
+226;2014;Checkpoint;M;Black;0
+227;2014;Checkpoint;M;Native American;0
+228;2014;Checkpoint;M;Asian;0
+229;2014;Checkpoint;M;Other;0

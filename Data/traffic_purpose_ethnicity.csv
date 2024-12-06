@@ -1,0 +1,93 @@
+;Year;Purpose;Gender;Ethnicity;Count
+0;2014;Vehicle Regulatory Violation;F;Hispanic;30
+1;2014;Vehicle Regulatory Violation;F;Non Hispanic;603
+2;2015;Vehicle Regulatory Violation;F;Hispanic;47
+3;2015;Vehicle Regulatory Violation;F;Non Hispanic;733
+4;2015;Stop Light/Sign Violation;M;Hispanic;18
+5;2015;Stop Light/Sign Violation;M;Non Hispanic;285
+6;2015;Investigation;F;Hispanic;24
+7;2015;Investigation;F;Non Hispanic;84
+8;2015;Safe Movement Violation;F;Hispanic;17
+9;2015;Safe Movement Violation;F;Non Hispanic;194
+10;2015;Driving While Impaired;M;Hispanic;7
+11;2015;Driving While Impaired;M;Non Hispanic;24
+12;2015;Checkpoint;M;Hispanic;0
+13;2015;Checkpoint;M;Non Hispanic;0
+14;2015;Speed Limit Violation;M;Hispanic;174
+15;2015;Speed Limit Violation;M;Non Hispanic;2287
+16;2015;Seat Belt Violation;F;Hispanic;0
+17;2015;Seat Belt Violation;F;Non Hispanic;7
+18;2014;Vehicle Equipment Violation;M;Hispanic;29
+19;2014;Vehicle Equipment Violation;M;Non Hispanic;381
+20;2014;Safe Movement Violation;F;Hispanic;5
+21;2014;Safe Movement Violation;F;Non Hispanic;108
+22;2014;Speed Limit Violation;M;Hispanic;135
+23;2014;Speed Limit Violation;M;Non Hispanic;2210
+24;2014;Total;A;Hispanic;599
+25;2014;Total;A;Non Hispanic;7644
+26;2015;Other Motor Vehicle Violation;F;Hispanic;9
+27;2015;Other Motor Vehicle Violation;F;Non Hispanic;54
+28;2014;FemaleTotal;F;Hispanic;209
+29;2014;FemaleTotal;F;Non Hispanic;3327
+30;2015;Safe Movement Violation;M;Hispanic;22
+31;2015;Safe Movement Violation;M;Non Hispanic;268
+32;2015;Vehicle Equipment Violation;F;Hispanic;13
+33;2015;Vehicle Equipment Violation;F;Non Hispanic;225
+34;2014;Speed Limit Violation;F;Hispanic;103
+35;2014;Speed Limit Violation;F;Non Hispanic;1921
+36;2015;Investigation;M;Hispanic;61
+37;2015;Investigation;M;Non Hispanic;200
+38;2015;FemaleTotal;F;Hispanic;208
+39;2015;FemaleTotal;F;Non Hispanic;3352
+40;2014;Seat Belt Violation;M;Hispanic;9
+41;2014;Seat Belt Violation;M;Non Hispanic;105
+42;2014;Investigation;M;Hispanic;39
+43;2014;Investigation;M;Non Hispanic;173
+44;2014;Stop Light/Sign Violation;M;Hispanic;28
+45;2014;Stop Light/Sign Violation;M;Non Hispanic;270
+46;2014;Vehicle Equipment Violation;F;Hispanic;16
+47;2014;Vehicle Equipment Violation;F;Non Hispanic;278
+48;2015;Vehicle Equipment Violation;M;Hispanic;23
+49;2015;Vehicle Equipment Violation;M;Non Hispanic;310
+50;2014;Safe Movement Violation;M;Hispanic;16
+51;2014;Safe Movement Violation;M;Non Hispanic;218
+52;2014;Checkpoint;F;Hispanic;0
+53;2014;Checkpoint;F;Non Hispanic;0
+54;2015;Vehicle Regulatory Violation;M;Hispanic;86
+55;2015;Vehicle Regulatory Violation;M;Non Hispanic;1029
+56;2015;Stop Light/Sign Violation;F;Hispanic;8
+57;2015;Stop Light/Sign Violation;F;Non Hispanic;214
+58;2014;Other Motor Vehicle Violation;M;Hispanic;43
+59;2014;Other Motor Vehicle Violation;M;Non Hispanic;105
+60;2014;Driving While Impaired;M;Hispanic;4
+61;2014;Driving While Impaired;M;Non Hispanic;20
+62;2015;Seat Belt Violation;M;Hispanic;2
+63;2015;Seat Belt Violation;M;Non Hispanic;32
+64;2014;Other Motor Vehicle Violation;F;Hispanic;27
+65;2014;Other Motor Vehicle Violation;F;Non Hispanic;63
+66;2014;Vehicle Regulatory Violation;M;Hispanic;87
+67;2014;Vehicle Regulatory Violation;M;Non Hispanic;835
+68;2014;Investigation;F;Hispanic;18
+69;2014;Investigation;F;Non Hispanic;93
+70;2014;Stop Light/Sign Violation;F;Hispanic;8
+71;2014;Stop Light/Sign Violation;F;Non Hispanic;174
+72;2015;Speed Limit Violation;F;Hispanic;90
+73;2015;Speed Limit Violation;F;Non Hispanic;1826
+74;2015;Total;A;Hispanic;638
+75;2015;Total;A;Non Hispanic;7881
+76;2015;Driving While Impaired;F;Hispanic;0
+77;2015;Driving While Impaired;F;Non Hispanic;15
+78;2015;Checkpoint;F;Hispanic;0
+79;2015;Checkpoint;F;Non Hispanic;0
+80;2014;Driving While Impaired;F;Hispanic;0
+81;2014;Driving While Impaired;F;Non Hispanic;4
+82;2015;MaleTotal;M;Hispanic;430
+83;2015;MaleTotal;M;Non Hispanic;4529
+84;2015;Other Motor Vehicle Violation;M;Hispanic;37
+85;2015;Other Motor Vehicle Violation;M;Non Hispanic;94
+86;2014;MaleTotal;M;Hispanic;390
+87;2014;MaleTotal;M;Non Hispanic;4317
+88;2014;Seat Belt Violation;F;Hispanic;2
+89;2014;Seat Belt Violation;F;Non Hispanic;83
+90;2014;Checkpoint;M;Hispanic;0
+91;2014;Checkpoint;M;Non Hispanic;0
